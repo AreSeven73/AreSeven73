@@ -1,5 +1,5 @@
 ## About me
--👋 Hi, I am @AreSeven!
+- 👋 Hi, I am @AreSeven!
 - 👀 I specialise in creating whimsical, silly things.
 - 📂 Creator of SCP : Endless Aisles and Journey's Greb Visual Novel.
 - 🎖️ National Cipher Challenge Medalist and Gold CREST.
