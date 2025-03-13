@@ -6,8 +6,10 @@
 - 🌱 I’m currently studying CS, Maths and Art for A levels.
 - 💾 Completed CS50x.
 - ♟️ Avid Arknights and Limbus Company fan.
+- 🏳️‍⚧️ Who would have guessed.
 - 📫 How to reach me: Discord (AreSeven)
 - 🧂 Needs more pepper, Mason.
+
 
 
 ## Stuff I use
