@@ -3,9 +3,9 @@
 - 👀 I specialise in creating whimsical, silly things.
 - 📂 Creator of SCP : Endless Aisles and Journey's Greb Visual Novel.
 - 🎖️ National Cipher Challenge Medalist and Gold CREST.
-- 🌱 I studyed CS, Maths and Art for A levels.
-- 🧿 Now studying Computer science at The University of Sheffield
 - 💾 Completed CS50x.
+- 🌱 I studied CS, Maths and Art for A levels.
+- 🧿 Now studying Computer science at The University of Sheffield
 - ♟️ Avid Arknights and Limbus Company fan.
 - 🏳️‍⚧️ Who would have guessed.
 - 📫 How to reach me: Discord (AreSeven)
